@@ -1,0 +1,2 @@
+[A] www.google.com ----> 142.250.185.4
+[A] help.google.com ----> 142.250.184.14
