@@ -3,6 +3,7 @@ import dns.resolver
 import pyfiglet
 from concurrent.futures import ThreadPoolExecutor
 import socket
+from datetime import datetime
 
 def call_args():
     print(pyfiglet.figlet_format("DNS ENUMERATOR"))
@@ -25,7 +26,7 @@ def resolve_with_server(word, domain, dns_server, record_types):
     results = []
 
     for record_type in record_types:
-        try:
+        try:²
             answers = resolver.resolve(subdomain, record_type)
             for rdata in answers:
                 results.append((record_type, subdomain, rdata.to_text()))

@@ -1,0 +1,378 @@
+2025-06-27 23:45:39,325 - INFO - Démarrage de l'énumération
+2025-06-27 23:45:40,064 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-06-27 23:45:40,966 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-27 23:45:40,966 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-27 23:45:40,966 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-27 23:45:40,968 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-27 23:45:40,968 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-27 23:45:40,968 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-27 23:45:40,968 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-27 23:45:40,968 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-27 23:45:40,970 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-27 23:45:40,970 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-27 23:45:40,971 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-27 23:45:40,971 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-27 23:45:40,973 - INFO - 12 enregistrements trouvés
+2025-06-27 23:45:40,973 - INFO - Temps d'exécution : 0:00:01.647910
+2025-06-27 23:45:40,974 - INFO - Export terminé : output.txt (json)
+2025-06-27 23:46:47,715 - INFO - Démarrage de l'énumération
+2025-06-27 23:46:49,845 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-06-27 23:46:51,108 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-27 23:46:51,110 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-27 23:46:51,110 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-27 23:46:51,110 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-27 23:46:51,110 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-27 23:46:51,110 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-27 23:46:51,110 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-27 23:46:51,111 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-27 23:46:51,111 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-27 23:46:51,111 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-27 23:46:51,111 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-27 23:46:51,111 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-27 23:46:51,113 - INFO - 12 enregistrements trouvés
+2025-06-27 23:46:51,113 - INFO - Temps d'exécution : 0:00:03.397902
+2025-06-27 23:46:51,113 - INFO - Export terminé : output.txt (json)
+2025-06-27 23:53:33,934 - INFO - Démarrage de l'énumération
+2025-06-27 23:53:35,269 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-06-27 23:53:37,262 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-27 23:53:37,262 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-27 23:53:37,262 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-27 23:53:37,262 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-27 23:53:37,262 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-27 23:53:37,262 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-27 23:53:37,263 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-27 23:53:37,263 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-27 23:53:37,263 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-27 23:53:37,263 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-27 23:53:37,263 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-27 23:53:37,263 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-27 23:53:37,265 - INFO - 12 enregistrements trouvés
+2025-06-27 23:53:37,265 - INFO - Temps d'exécution : 0:00:03.330390
+2025-06-27 23:53:37,265 - INFO - Export terminé : output.txt (json)
+2025-06-28 00:40:33,546 - INFO - Démarrage de l'énumération
+2025-06-28 00:40:35,509 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-06-28 00:40:36,230 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-28 00:40:36,231 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-28 00:40:36,231 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-28 00:40:36,231 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-28 00:40:36,232 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-28 00:40:36,232 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-28 00:40:36,232 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-28 00:40:36,232 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-28 00:40:36,233 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-28 00:40:36,233 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-28 00:40:36,234 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-28 00:40:36,234 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-28 00:40:36,236 - INFO - 12 enregistrements trouvés
+2025-06-28 00:40:36,236 - INFO - Temps d'exécution : 0:00:02.688777
+2025-06-28 00:40:36,236 - INFO - Export terminé : output.txt (json)
+2025-06-28 21:01:03,861 - INFO - Démarrage de l'énumération
+2025-06-28 21:01:04,989 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-06-28 21:01:06,145 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-28 21:01:06,145 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-28 21:01:06,145 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-28 21:01:06,145 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-28 21:01:06,145 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-28 21:01:06,146 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-28 21:01:06,146 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-28 21:01:06,146 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-28 21:01:06,146 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-28 21:01:06,146 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-28 21:01:06,146 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-28 21:01:06,146 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-28 21:01:06,148 - INFO - 12 enregistrements trouvés
+2025-06-28 21:01:06,148 - INFO - Temps d'exécution : 0:00:02.286098
+2025-06-28 21:01:06,148 - INFO - Export terminé : output.txt (json)
+2025-06-28 21:02:37,314 - INFO - Démarrage de l'énumération
+2025-06-28 21:02:37,897 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-06-28 21:02:38,674 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-28 21:02:38,674 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-28 21:02:38,675 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-28 21:02:38,675 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-28 21:02:38,675 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-28 21:02:38,675 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-28 21:02:38,675 - WARNING - [MX] www.tryhackme.com ----> NoAnswer [FAIL]
+2025-06-28 21:02:38,675 - WARNING - [NS] www.tryhackme.com ----> NoAnswer [FAIL]
+2025-06-28 21:02:38,675 - WARNING - [TXT] www.tryhackme.com ----> NoAnswer [FAIL]
+2025-06-28 21:02:38,675 - WARNING - [A] ttttt.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:02:38,675 - WARNING - [AAAA] ttttt.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:02:38,675 - WARNING - [MX] ttttt.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:02:38,675 - WARNING - [NS] ttttt.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:02:38,675 - WARNING - [TXT] ttttt.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:02:38,679 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-28 21:02:38,679 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-28 21:02:38,679 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-28 21:02:38,679 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-28 21:02:38,679 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-28 21:02:38,679 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-28 21:02:38,679 - WARNING - [MX] help.tryhackme.com ----> NoAnswer [FAIL]
+2025-06-28 21:02:38,679 - WARNING - [NS] help.tryhackme.com ----> NoAnswer [FAIL]
+2025-06-28 21:02:38,679 - WARNING - [TXT] help.tryhackme.com ----> NoAnswer [FAIL]
+2025-06-28 21:02:38,679 - WARNING - [A] center.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:02:38,679 - WARNING - [AAAA] center.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:02:38,680 - WARNING - [MX] center.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:02:38,680 - WARNING - [NS] center.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:02:38,680 - WARNING - [TXT] center.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:02:38,681 - INFO - 12 enregistrements trouvés
+2025-06-28 21:02:38,681 - INFO - Temps d'exécution : 0:00:01.365852
+2025-06-28 21:02:38,681 - INFO - Export terminé : output.txt (json)
+2025-06-28 21:20:37,578 - INFO - Démarrage de l'énumération
+2025-06-28 21:21:53,602 - INFO - Démarrage de l'énumération
+2025-06-28 21:22:23,662 - INFO - Démarrage de l'énumération
+2025-06-28 21:22:44,234 - INFO - Démarrage de l'énumération
+2025-06-28 21:22:45,331 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-06-28 21:22:46,946 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-28 21:22:46,946 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-28 21:22:46,946 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-28 21:22:46,947 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-28 21:22:46,947 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-28 21:22:46,947 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-28 21:22:46,947 - WARNING - [MX] www.tryhackme.com ----> NoAnswer [FAIL]
+2025-06-28 21:22:46,947 - WARNING - [NS] www.tryhackme.com ----> NoAnswer [FAIL]
+2025-06-28 21:22:46,947 - WARNING - [TXT] www.tryhackme.com ----> NoAnswer [FAIL]
+2025-06-28 21:22:46,947 - WARNING - [A] ttttt.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:22:46,947 - WARNING - [AAAA] ttttt.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:22:46,948 - WARNING - [MX] ttttt.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:22:46,948 - WARNING - [NS] ttttt.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:22:46,948 - WARNING - [TXT] ttttt.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:22:46,948 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-06-28 21:22:46,948 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-06-28 21:22:46,948 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-06-28 21:22:46,948 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-06-28 21:22:46,948 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-06-28 21:22:46,948 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-06-28 21:22:46,949 - WARNING - [MX] help.tryhackme.com ----> NoAnswer [FAIL]
+2025-06-28 21:22:46,949 - WARNING - [NS] help.tryhackme.com ----> NoAnswer [FAIL]
+2025-06-28 21:22:46,949 - WARNING - [TXT] help.tryhackme.com ----> NoAnswer [FAIL]
+2025-06-28 21:22:46,949 - WARNING - [A] center.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:22:46,949 - WARNING - [AAAA] center.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:22:46,949 - WARNING - [MX] center.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:22:46,949 - WARNING - [NS] center.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:22:46,949 - WARNING - [TXT] center.tryhackme.com ----> NXDOMAIN [FAIL]
+2025-06-28 21:22:46,950 - INFO - 12 enregistrements trouvés
+2025-06-28 21:22:46,950 - INFO - Temps d'exécution : 0:00:02.716284
+2025-06-28 21:22:46,950 - INFO - Export terminé : output.txt (json)
+2025-07-02 20:09:48,232 - INFO - Démarrage de l'énumération
+2025-07-02 20:09:48,242 - ERROR - Erreur ouverture wordlist: [Errno 2] No such file or directory: 'test.txt'
+2025-07-02 20:10:05,006 - INFO - Démarrage de l'énumération
+2025-07-02 20:10:05,006 - ERROR - Erreur ouverture wordlist: [Errno 2] No such file or directory: 'domain_wordlist.txt.txt'
+2025-07-02 20:10:16,097 - INFO - Démarrage de l'énumération
+2025-07-02 20:10:20,789 - INFO - Démarrage de l'énumération
+2025-07-02 20:32:13,940 - INFO - Démarrage de l'énumération
+2025-07-02 20:38:22,399 - INFO - Démarrage de l'énumération
+2025-07-02 20:54:15,571 - INFO - Démarrage de l'énumération
+2025-07-02 20:54:22,027 - INFO - Démarrage de l'énumération
+2025-07-02 20:54:23,895 - INFO - [A] www.google.com ----> 142.250.200.132 [OK]
+2025-07-02 20:54:23,895 - INFO - [A] help.google.com ----> 216.58.215.142 [OK]
+2025-07-02 20:54:23,895 - INFO - 2 enregistrements trouvés
+2025-07-02 20:54:23,895 - INFO - Temps d'exécution : 0:00:01.868525
+2025-07-02 20:54:23,895 - INFO - Export terminé : output.txt (txt)
+2025-07-02 20:55:39,909 - INFO - Démarrage de l'énumération
+2025-07-02 20:55:40,561 - INFO - [A] www.google.com ----> 142.250.200.132 [OK]
+2025-07-02 20:55:40,561 - INFO - [A] help.google.com ----> 216.58.215.142 [OK]
+2025-07-02 20:55:40,571 - INFO - 2 enregistrements trouvés
+2025-07-02 20:55:40,571 - INFO - Temps d'exécution : 0:00:00.652286
+2025-07-02 20:55:40,571 - INFO - Export terminé : output.txt (txt)
+2025-07-02 21:00:41,655 - INFO - Démarrage de l'énumération
+2025-07-02 21:00:42,023 - INFO - 0 enregistrements trouvés
+2025-07-02 21:00:42,023 - INFO - Temps d'exécution : 0:00:00.367889
+2025-07-02 21:00:42,023 - INFO - Export terminé : output.txt (txt)
+2025-07-02 21:00:46,942 - INFO - Démarrage de l'énumération
+2025-07-02 21:00:47,226 - INFO - 0 enregistrements trouvés
+2025-07-02 21:00:47,226 - INFO - Temps d'exécution : 0:00:00.283966
+2025-07-02 21:00:47,226 - INFO - Export terminé : output.txt (txt)
+2025-07-02 21:01:39,724 - INFO - Démarrage de l'énumération
+2025-07-02 21:01:40,093 - INFO - 0 enregistrements trouvés
+2025-07-02 21:01:40,093 - INFO - Temps d'exécution : 0:00:00.369171
+2025-07-02 21:01:40,093 - INFO - Export terminé : output.txt (txt)
+2025-07-02 21:02:12,758 - INFO - Démarrage de l'énumération
+2025-07-02 21:02:13,357 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-07-02 21:02:13,357 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-02 21:02:15,257 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-02 21:02:17,248 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-02 21:02:17,249 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-02 21:02:17,249 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-02 21:02:17,249 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-02 21:02:17,249 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-02 21:02:17,249 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-02 21:02:17,249 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-02 21:02:17,249 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-02 21:02:17,249 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-02 21:02:17,249 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-02 21:02:17,249 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-02 21:02:17,249 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-02 21:02:17,255 - INFO - 12 enregistrements trouvés
+2025-07-02 21:02:17,255 - INFO - Temps d'exécution : 0:00:04.494567
+2025-07-02 21:02:17,255 - INFO - Export terminé : output.txt (json)
+2025-07-02 21:02:29,904 - INFO - Démarrage de l'énumération
+2025-07-02 21:02:30,130 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-07-02 21:02:30,130 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-02 21:02:31,372 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-02 21:02:32,094 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-02 21:02:32,094 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-02 21:02:32,097 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-02 21:02:32,097 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-02 21:02:32,097 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-02 21:02:32,097 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-02 21:02:32,097 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-02 21:02:32,097 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-02 21:02:32,097 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-02 21:02:32,097 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-02 21:02:32,097 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-02 21:02:32,097 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-02 21:02:32,097 - INFO - 12 enregistrements trouvés
+2025-07-02 21:02:32,097 - INFO - Temps d'exécution : 0:00:02.192455
+2025-07-02 21:02:32,097 - INFO - Export terminé : output.txt (json)
+2025-07-02 21:02:38,376 - INFO - Démarrage de l'énumération
+2025-07-02 21:02:38,731 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-07-02 21:02:38,731 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-02 21:02:39,359 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-02 21:02:40,183 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-02 21:02:40,183 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-02 21:02:40,183 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-02 21:02:40,183 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-02 21:02:40,183 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-02 21:02:40,183 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-02 21:02:40,183 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-02 21:02:40,183 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-02 21:02:40,183 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-02 21:02:40,183 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-02 21:02:40,183 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-02 21:02:40,188 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-02 21:02:40,189 - INFO - 12 enregistrements trouvés
+2025-07-02 21:02:40,189 - INFO - Temps d'exécution : 0:00:01.813352
+2025-07-02 21:02:40,189 - INFO - Export terminé : output.txt (json)
+2025-07-02 21:02:58,308 - INFO - Démarrage de l'énumération
+2025-07-02 21:02:58,537 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-07-02 21:02:58,538 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-02 21:02:59,792 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-02 21:03:01,675 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-02 21:03:01,676 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-02 21:03:01,676 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-02 21:03:01,676 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-02 21:03:01,676 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-02 21:03:01,676 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-02 21:03:01,676 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-02 21:03:01,676 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-02 21:03:01,676 - INFO - 8 enregistrements trouvés
+2025-07-02 21:03:01,676 - INFO - Temps d'exécution : 0:00:03.367562
+2025-07-02 21:03:01,676 - INFO - Export terminé : output.txt (json)
+2025-07-04 21:38:03,197 - INFO - Démarrage de l'énumération
+2025-07-04 21:38:03,352 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-04 21:38:03,352 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-04 21:38:03,772 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-04 21:38:04,568 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-04 21:38:04,569 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-04 21:38:04,569 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-04 21:38:04,569 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-04 21:38:04,570 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-04 21:38:04,570 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-04 21:38:04,570 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-04 21:38:04,572 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-04 21:38:04,572 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-04 21:38:04,573 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-04 21:38:04,573 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-04 21:38:04,573 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-04 21:38:04,575 - INFO - 12 enregistrements trouvés
+2025-07-04 21:38:04,575 - INFO - Temps d'exécution : 0:00:01.376310
+2025-07-04 21:38:04,575 - INFO - Export terminé : output.txt (json)
+2025-07-05 18:13:07,313 - INFO - Démarrage de l'énumération
+2025-07-05 18:13:07,488 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-05 18:13:07,489 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-05 18:13:09,239 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-05 18:13:09,836 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-05 18:13:19,130 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-05 18:13:19,131 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-05 18:13:28,136 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-05 18:13:28,136 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-05 18:13:36,658 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-05 18:13:36,658 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-05 18:13:36,658 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-05 18:13:36,659 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-05 18:13:36,659 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-05 18:13:45,571 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-05 18:13:45,571 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-05 18:13:53,805 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-05 18:13:53,806 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-05 18:14:02,887 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-05 18:14:02,887 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-05 18:14:02,888 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-05 18:14:02,888 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-05 18:14:02,891 - INFO - 12 enregistrements trouvés
+2025-07-05 18:14:02,891 - INFO - Temps d'exécution : 0:00:55.576414
+2025-07-05 18:14:02,891 - INFO - Export terminé : output.txt (json)
+2025-07-05 18:23:07,795 - INFO - Démarrage de l'énumération
+2025-07-05 18:23:07,837 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-05 18:23:07,838 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-05 18:23:09,840 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-05 18:23:11,410 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-05 18:23:12,415 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-05 18:23:12,416 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-05 18:23:13,420 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-05 18:23:13,420 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-05 18:23:14,423 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-05 18:23:14,424 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-05 18:23:14,424 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-05 18:23:14,424 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-05 18:23:14,424 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-05 18:23:15,427 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-05 18:23:15,428 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-05 18:23:16,431 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-05 18:23:16,431 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-05 18:23:17,435 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-05 18:23:17,436 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-05 18:23:17,436 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-05 18:23:17,436 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-05 18:23:17,437 - INFO - 12 enregistrements trouvés
+2025-07-05 18:23:17,437 - INFO - Temps d'exécution : 0:00:09.641146
+2025-07-05 18:23:17,437 - INFO - Export terminé : output.txt (json)
+2025-07-05 18:24:12,487 - INFO - Démarrage de l'énumération
+2025-07-05 18:24:12,492 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-05 18:24:12,492 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-05 18:24:12,857 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-05 18:24:13,473 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-05 18:24:14,477 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-05 18:24:14,477 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-05 18:24:15,481 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-05 18:24:15,482 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-05 18:24:16,485 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-05 18:24:16,485 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-05 18:24:16,485 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-05 18:24:16,485 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-05 18:24:16,486 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-05 18:24:17,490 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-05 18:24:17,492 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-05 18:24:18,496 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-05 18:24:18,497 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-05 18:24:19,502 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-05 18:24:19,502 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-05 18:24:19,502 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-05 18:24:19,502 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-05 18:24:19,504 - INFO - 12 enregistrements trouvés
+2025-07-05 18:24:19,504 - INFO - Temps d'exécution : 0:00:07.016306
+2025-07-05 18:24:19,504 - INFO - Export terminé : output.txt (json)
+2025-07-06 22:12:02,071 - INFO - Démarrage de l'énumération
+2025-07-06 22:12:02,173 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-06 22:12:02,173 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-06 22:12:02,621 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-06 22:12:03,243 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-06 22:12:04,248 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-06 22:12:04,248 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-06 22:12:05,251 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-06 22:12:05,252 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-06 22:12:06,259 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-06 22:12:06,259 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-06 22:12:06,259 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-06 22:12:06,259 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-06 22:12:06,259 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-06 22:12:07,262 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-06 22:12:07,262 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-06 22:12:08,267 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-06 22:12:08,267 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-06 22:12:09,271 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-06 22:12:09,271 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-06 22:12:09,272 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-06 22:12:09,272 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-06 22:12:09,275 - INFO - 12 enregistrements trouvés
+2025-07-06 22:12:09,275 - INFO - Temps d'exécution : 0:00:07.204620
+2025-07-06 22:12:09,276 - INFO - Export terminé : output.txt (json)

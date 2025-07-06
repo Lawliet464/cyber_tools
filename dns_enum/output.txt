@@ -1,2 +1,74 @@
-[A] www.google.com ----> 142.250.185.4
-[A] help.google.com ----> 142.250.184.14
+[
+  {
+    "type": "A",
+    "subdomain": "www.tryhackme.com",
+    "value": "104.22.54.228",
+    "status": "OK"
+  },
+  {
+    "type": "A",
+    "subdomain": "www.tryhackme.com",
+    "value": "172.67.27.10",
+    "status": "OK"
+  },
+  {
+    "type": "A",
+    "subdomain": "www.tryhackme.com",
+    "value": "104.22.55.228",
+    "status": "OK"
+  },
+  {
+    "type": "AAAA",
+    "subdomain": "www.tryhackme.com",
+    "value": "2606:4700:10::6816:36e4",
+    "status": "OK"
+  },
+  {
+    "type": "AAAA",
+    "subdomain": "www.tryhackme.com",
+    "value": "2606:4700:10::ac43:1b0a",
+    "status": "OK"
+  },
+  {
+    "type": "AAAA",
+    "subdomain": "www.tryhackme.com",
+    "value": "2606:4700:10::6816:37e4",
+    "status": "OK"
+  },
+  {
+    "type": "A",
+    "subdomain": "help.tryhackme.com",
+    "value": "172.67.27.10",
+    "status": "OK"
+  },
+  {
+    "type": "A",
+    "subdomain": "help.tryhackme.com",
+    "value": "104.22.55.228",
+    "status": "OK"
+  },
+  {
+    "type": "A",
+    "subdomain": "help.tryhackme.com",
+    "value": "104.22.54.228",
+    "status": "OK"
+  },
+  {
+    "type": "AAAA",
+    "subdomain": "help.tryhackme.com",
+    "value": "2606:4700:10::6816:36e4",
+    "status": "OK"
+  },
+  {
+    "type": "AAAA",
+    "subdomain": "help.tryhackme.com",
+    "value": "2606:4700:10::ac43:1b0a",
+    "status": "OK"
+  },
+  {
+    "type": "AAAA",
+    "subdomain": "help.tryhackme.com",
+    "value": "2606:4700:10::6816:37e4",
+    "status": "OK"
+  }
+]
