@@ -376,3 +376,463 @@
 2025-07-06 22:12:09,275 - INFO - 12 enregistrements trouvés
 2025-07-06 22:12:09,275 - INFO - Temps d'exécution : 0:00:07.204620
 2025-07-06 22:12:09,276 - INFO - Export terminé : output.txt (json)
+2025-07-08 23:22:50,235 - INFO - Démarrage de l'énumération
+2025-07-08 23:22:50,500 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-08 23:22:50,500 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-08 23:22:51,701 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-08 23:22:53,062 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-08 23:22:54,079 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-08 23:22:54,079 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-08 23:22:55,096 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-08 23:22:55,099 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-08 23:22:56,118 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-08 23:22:56,119 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-08 23:22:56,121 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-08 23:22:56,121 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-08 23:22:56,122 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-08 23:22:57,133 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-08 23:22:57,135 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-08 23:22:58,147 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-08 23:22:58,150 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-08 23:22:59,171 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-08 23:22:59,173 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-08 23:22:59,173 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-08 23:22:59,175 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-08 23:22:59,181 - INFO - 12 enregistrements trouvés
+2025-07-08 23:22:59,181 - INFO - Temps d'exécution : 0:00:08.939805
+2025-07-08 23:22:59,181 - INFO - Export terminé : output.txt (json)
+2025-07-08 23:30:30,921 - INFO - Démarrage de l'énumération
+2025-07-08 23:30:30,933 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-08 23:30:30,933 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-08 23:30:31,571 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-08 23:30:32,315 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-08 23:30:33,328 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-08 23:30:33,330 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-08 23:30:34,348 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-08 23:30:34,348 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-08 23:30:35,360 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-08 23:30:35,364 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-08 23:30:35,366 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-08 23:30:35,366 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-08 23:30:35,366 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-08 23:30:36,381 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-08 23:30:36,384 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-08 23:30:37,395 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-08 23:30:37,397 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-08 23:30:38,413 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-08 23:30:38,413 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-08 23:30:38,413 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-08 23:30:38,415 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-08 23:30:38,419 - INFO - 12 enregistrements trouvés
+2025-07-08 23:30:38,420 - INFO - Temps d'exécution : 0:00:07.496507
+2025-07-08 23:30:38,420 - INFO - Export terminé : output.txt (json)
+2025-07-08 23:30:48,997 - INFO - Démarrage de l'énumération
+2025-07-08 23:30:49,087 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-08 23:30:49,089 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-08 23:30:50,003 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-08 23:30:50,824 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-08 23:30:51,838 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-08 23:30:51,839 - WARNING - Erreur SSL pour 104.22.54.228: name 'ssl' is not defined
+2025-07-08 23:30:51,839 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-08 23:30:52,852 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-08 23:30:52,854 - WARNING - Erreur SSL pour 104.22.55.228: name 'ssl' is not defined
+2025-07-08 23:30:52,856 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-08 23:30:53,880 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-08 23:30:53,880 - WARNING - Erreur SSL pour 172.67.27.10: name 'ssl' is not defined
+2025-07-08 23:30:53,880 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-08 23:30:53,883 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-08 23:30:53,883 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-08 23:30:53,883 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-08 23:30:54,896 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-08 23:30:54,898 - WARNING - Erreur SSL pour 104.22.55.228: name 'ssl' is not defined
+2025-07-08 23:30:54,898 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-08 23:30:55,911 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-08 23:30:55,912 - WARNING - Erreur SSL pour 104.22.54.228: name 'ssl' is not defined
+2025-07-08 23:30:55,913 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-08 23:30:56,937 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-08 23:30:56,937 - WARNING - Erreur SSL pour 172.67.27.10: name 'ssl' is not defined
+2025-07-08 23:30:56,937 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-08 23:30:56,937 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-08 23:30:56,937 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-08 23:30:56,941 - INFO - 12 enregistrements trouvés
+2025-07-08 23:30:56,941 - INFO - Temps d'exécution : 0:00:07.944704
+2025-07-08 23:30:56,941 - INFO - Export terminé : output.txt (json)
+2025-07-08 23:31:53,639 - INFO - Démarrage de l'énumération
+2025-07-08 23:31:57,384 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-08 23:31:59,229 - INFO - [A] www.google.com ----> 142.250.185.4 [OK]
+2025-07-08 23:32:00,649 - INFO - Ports ouverts sur 142.250.185.4 : 80, 443
+2025-07-08 23:32:00,649 - WARNING - Erreur SSL pour 142.250.185.4: name 'ssl' is not defined
+2025-07-08 23:32:00,651 - INFO - [AAAA] www.google.com ----> 2a00:1450:4003:80f::2004 [OK]
+2025-07-08 23:32:00,651 - INFO - [A] help.google.com ----> 142.250.185.14 [OK]
+2025-07-08 23:32:01,903 - INFO - Ports ouverts sur 142.250.185.14 : 80, 443
+2025-07-08 23:32:01,903 - WARNING - Erreur SSL pour 142.250.185.14: name 'ssl' is not defined
+2025-07-08 23:32:01,903 - INFO - [AAAA] help.google.com ----> 2a00:1450:4003:803::200e [OK]
+2025-07-08 23:32:01,906 - INFO - 4 enregistrements trouvés
+2025-07-08 23:32:01,906 - INFO - Temps d'exécution : 0:00:08.267007
+2025-07-08 23:32:01,906 - INFO - Export terminé : output.txt (json)
+2025-07-08 23:39:00,492 - INFO - Démarrage de l'énumération
+2025-07-08 23:39:03,887 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-08 23:39:04,959 - INFO - [A] www.google.com ----> 142.250.184.4 [OK]
+2025-07-08 23:39:06,115 - INFO - Ports ouverts sur 142.250.184.4 : 80, 443
+2025-07-08 23:39:07,266 - WARNING - Erreur SSL pour 142.250.184.4: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)
+2025-07-08 23:39:07,268 - INFO - [AAAA] www.google.com ----> 2a00:1450:4003:811::2004 [OK]
+2025-07-08 23:39:07,270 - INFO - [A] help.google.com ----> 142.250.185.14 [OK]
+2025-07-08 23:39:09,009 - INFO - Ports ouverts sur 142.250.185.14 : 80, 443
+2025-07-08 23:39:09,307 - WARNING - Erreur SSL pour 142.250.185.14: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)
+2025-07-08 23:39:09,312 - INFO - [AAAA] help.google.com ----> 2a00:1450:4003:803::200e [OK]
+2025-07-08 23:39:09,314 - INFO - 4 enregistrements trouvés
+2025-07-08 23:39:09,314 - INFO - Temps d'exécution : 0:00:08.821911
+2025-07-08 23:39:09,314 - INFO - Export terminé : output.txt (json)
+2025-07-08 23:39:36,163 - INFO - Démarrage de l'énumération
+2025-07-08 23:39:36,379 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-08 23:39:36,379 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-08 23:39:38,157 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-08 23:39:39,396 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-08 23:39:40,411 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-08 23:39:41,126 - WARNING - Erreur SSL pour 104.22.55.228: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+2025-07-08 23:39:41,130 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-08 23:39:42,142 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-08 23:39:43,238 - WARNING - Erreur SSL pour 104.22.54.228: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+2025-07-08 23:39:43,238 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-08 23:39:44,263 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-08 23:39:45,043 - WARNING - Erreur SSL pour 172.67.27.10: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+2025-07-08 23:39:45,043 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-08 23:39:45,046 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-08 23:39:45,046 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-08 23:39:45,046 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-08 23:39:46,056 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-08 23:39:46,680 - WARNING - Erreur SSL pour 104.22.54.228: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+2025-07-08 23:39:46,684 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-08 23:39:47,697 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-08 23:39:48,115 - WARNING - Erreur SSL pour 172.67.27.10: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+2025-07-08 23:39:48,117 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-08 23:39:49,128 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-08 23:39:49,446 - WARNING - Erreur SSL pour 104.22.55.228: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+2025-07-08 23:39:49,450 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-08 23:39:49,451 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-08 23:39:49,451 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-08 23:39:49,453 - INFO - 12 enregistrements trouvés
+2025-07-08 23:39:49,454 - INFO - Temps d'exécution : 0:00:13.289191
+2025-07-08 23:39:49,454 - INFO - Export terminé : output.txt (json)
+2025-07-09 20:49:12,421 - INFO - Démarrage de l'énumération
+2025-07-09 20:49:12,540 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-09 20:49:12,540 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-09 20:49:12,958 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-09 20:49:13,658 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-09 20:49:14,669 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-09 20:49:15,212 - INFO - Certificat SSL www.tryhackme.com (172.67.27.10) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-09 20:49:15,217 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-09 20:49:16,230 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-09 20:49:16,886 - INFO - Certificat SSL www.tryhackme.com (104.22.54.228) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-09 20:49:16,892 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-09 20:49:17,900 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-09 20:49:18,395 - INFO - Certificat SSL www.tryhackme.com (104.22.55.228) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-09 20:49:18,395 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-09 20:49:18,395 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-09 20:49:18,395 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-09 20:49:18,401 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-09 20:49:19,413 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-09 20:49:20,303 - INFO - Certificat SSL help.tryhackme.com (172.67.27.10) : CN=help.tryhackme.com, Issuer=WR1, Valid From=May 17 16:15:26 2025 GMT, To=Aug 15 17:14:10 2025 GMT
+2025-07-09 20:49:20,305 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-09 20:49:21,327 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-09 20:49:22,405 - INFO - Certificat SSL help.tryhackme.com (104.22.54.228) : CN=help.tryhackme.com, Issuer=WR1, Valid From=May 17 16:15:26 2025 GMT, To=Aug 15 17:14:10 2025 GMT
+2025-07-09 20:49:22,405 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-09 20:49:23,410 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-09 20:49:24,204 - INFO - Certificat SSL help.tryhackme.com (104.22.55.228) : CN=help.tryhackme.com, Issuer=WR1, Valid From=May 17 16:15:26 2025 GMT, To=Aug 15 17:14:10 2025 GMT
+2025-07-09 20:49:24,204 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-09 20:49:24,204 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-09 20:49:24,204 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-09 20:49:24,212 - INFO - 12 enregistrements trouvés
+2025-07-09 20:49:24,212 - INFO - Temps d'exécution : 0:00:11.787892
+2025-07-09 20:49:24,212 - INFO - Export terminé : output.txt (json)
+2025-07-09 20:53:02,258 - INFO - Démarrage de l'énumération
+2025-07-09 20:53:02,275 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-09 20:53:02,275 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-09 20:53:02,819 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-09 20:53:03,371 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-09 20:53:04,379 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-09 20:53:06,202 - INFO - Certificat SSL www.tryhackme.com (104.22.55.228) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-09 20:53:06,209 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-09 20:53:07,218 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-09 20:53:07,537 - INFO - Certificat SSL www.tryhackme.com (172.67.27.10) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-09 20:53:07,537 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-09 20:53:08,551 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-09 20:53:08,779 - INFO - Certificat SSL www.tryhackme.com (104.22.54.228) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-09 20:53:08,780 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-09 20:53:08,780 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-09 20:53:08,780 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-09 20:53:08,780 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-09 20:53:09,787 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-09 20:53:10,054 - INFO - Certificat SSL help.tryhackme.com (104.22.54.228) : CN=help.tryhackme.com, Issuer=WR1, Valid From=May 17 16:15:26 2025 GMT, To=Aug 15 17:14:10 2025 GMT
+2025-07-09 20:53:10,054 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-09 20:53:11,061 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-09 20:53:11,270 - INFO - Certificat SSL help.tryhackme.com (172.67.27.10) : CN=help.tryhackme.com, Issuer=WR1, Valid From=May 17 16:15:26 2025 GMT, To=Aug 15 17:14:10 2025 GMT
+2025-07-09 20:53:11,270 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-09 20:53:12,279 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-09 20:53:12,583 - INFO - Certificat SSL help.tryhackme.com (104.22.55.228) : CN=help.tryhackme.com, Issuer=WR1, Valid From=May 17 16:15:26 2025 GMT, To=Aug 15 17:14:10 2025 GMT
+2025-07-09 20:53:12,583 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-09 20:53:12,586 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-09 20:53:12,586 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-09 20:53:12,586 - INFO - 12 enregistrements trouvés
+2025-07-09 20:53:12,586 - INFO - Temps d'exécution : 0:00:10.327454
+2025-07-09 20:53:12,586 - INFO - Export terminé : output.txt (json)
+2025-07-09 21:15:07,226 - INFO - Démarrage de l'énumération
+2025-07-09 21:15:07,278 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-09 21:15:07,278 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-09 21:15:07,993 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-09 21:15:08,711 - INFO - [A] www.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-09 21:15:09,722 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-09 21:15:12,298 - INFO - Certificat SSL www.tryhackme.com (104.22.54.228) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-09 21:15:12,298 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-09 21:15:13,308 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-09 21:15:13,839 - INFO - Certificat SSL www.tryhackme.com (172.67.27.10) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-09 21:15:13,840 - INFO - [A] www.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-09 21:15:14,923 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-09 21:15:15,267 - INFO - Certificat SSL www.tryhackme.com (104.22.55.228) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-09 21:15:15,267 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-09 21:15:15,267 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-09 21:15:15,267 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-09 21:15:15,267 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-09 21:15:16,277 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-09 21:15:16,792 - INFO - Certificat SSL help.tryhackme.com (172.67.27.10) : CN=help.tryhackme.com, Issuer=WR1, Valid From=May 17 16:15:26 2025 GMT, To=Aug 15 17:14:10 2025 GMT
+2025-07-09 21:15:16,801 - INFO - [A] help.tryhackme.com ----> 104.22.54.228 [OK]
+2025-07-09 21:15:17,811 - INFO - Ports ouverts sur 104.22.54.228 : 80, 443, 8080
+2025-07-09 21:15:19,872 - INFO - Certificat SSL help.tryhackme.com (104.22.54.228) : CN=help.tryhackme.com, Issuer=WR1, Valid From=May 17 16:15:26 2025 GMT, To=Aug 15 17:14:10 2025 GMT
+2025-07-09 21:15:19,872 - INFO - [A] help.tryhackme.com ----> 104.22.55.228 [OK]
+2025-07-09 21:15:20,887 - INFO - Ports ouverts sur 104.22.55.228 : 80, 443, 8080
+2025-07-09 21:15:21,640 - INFO - Certificat SSL help.tryhackme.com (104.22.55.228) : CN=help.tryhackme.com, Issuer=WR1, Valid From=May 17 16:15:26 2025 GMT, To=Aug 15 17:14:10 2025 GMT
+2025-07-09 21:15:21,640 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-09 21:15:21,640 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:36e4 [OK]
+2025-07-09 21:15:21,640 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6816:37e4 [OK]
+2025-07-09 21:15:21,643 - INFO - 12 enregistrements trouvés
+2025-07-09 21:15:21,643 - INFO - Temps d'exécution : 0:00:14.417341
+2025-07-09 21:15:21,643 - INFO - Export terminé : output.txt (json)
+2025-07-09 21:29:42,992 - INFO - Démarrage de l'énumération
+2025-07-09 21:29:46,184 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-09 21:29:47,008 - INFO - [A] www.google.com ----> 142.250.200.132 [OK]
+2025-07-09 21:29:48,112 - INFO - Ports ouverts sur 142.250.200.132 : 80, 443
+2025-07-09 21:29:48,787 - INFO - Certificat SSL www.google.com (142.250.200.132) : CN=www.google.com, Issuer=WR2, Valid From=Jun 17 20:03:45 2025 GMT, To=Sep  9 20:03:44 2025 GMT
+2025-07-09 21:29:48,787 - INFO - [AAAA] www.google.com ----> 2a00:1450:4003:80f::2004 [OK]
+2025-07-09 21:29:48,789 - INFO - [A] help.google.com ----> 142.250.200.110 [OK]
+2025-07-09 21:29:50,355 - INFO - Ports ouverts sur 142.250.200.110 : 80, 443
+2025-07-09 21:29:50,828 - INFO - Certificat SSL help.google.com (142.250.200.110) : CN=*.google.com, Issuer=WR2, Valid From=Jun 17 20:01:48 2025 GMT, To=Sep  9 20:01:47 2025 GMT
+2025-07-09 21:29:50,828 - INFO - [AAAA] help.google.com ----> 2a00:1450:4003:80e::200e [OK]
+2025-07-09 21:29:50,831 - INFO - 4 enregistrements trouvés
+2025-07-09 21:29:50,831 - INFO - Temps d'exécution : 0:00:07.837704
+2025-07-09 21:29:50,831 - INFO - Export terminé : output.txt (json)
+2025-07-16 22:20:40,197 - INFO - Démarrage de l'énumération
+2025-07-16 22:20:40,386 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-16 22:20:40,386 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-16 22:20:41,088 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-16 22:20:41,771 - INFO - [A] www.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-16 22:20:42,788 - INFO - Ports ouverts sur 172.66.164.239 : 80, 443, 8080
+2025-07-16 22:20:43,693 - INFO - Certificat SSL www.tryhackme.com (172.66.164.239) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-16 22:20:43,693 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-16 22:20:44,713 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-16 22:20:45,503 - INFO - Certificat SSL www.tryhackme.com (172.67.27.10) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-16 22:20:45,504 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-16 22:20:45,504 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac42:a4ef [OK]
+2025-07-16 22:20:45,505 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-16 22:20:46,515 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-16 22:20:47,138 - INFO - Certificat SSL help.tryhackme.com (172.67.27.10) : CN=help.tryhackme.com, Issuer=WR1, Valid From=Jul 15 20:23:08 2025 GMT, To=Oct 13 21:22:00 2025 GMT
+2025-07-16 22:20:47,144 - INFO - [A] help.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-16 22:20:48,156 - INFO - Ports ouverts sur 172.66.164.239 : 80, 443, 8080
+2025-07-16 22:20:48,379 - INFO - Certificat SSL help.tryhackme.com (172.66.164.239) : CN=help.tryhackme.com, Issuer=WR1, Valid From=Jul 15 20:23:08 2025 GMT, To=Oct 13 21:22:00 2025 GMT
+2025-07-16 22:20:48,379 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac42:a4ef [OK]
+2025-07-16 22:20:48,379 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-16 22:20:48,385 - INFO - 8 enregistrements trouvés
+2025-07-16 22:20:48,386 - INFO - Temps d'exécution : 0:00:08.187570
+2025-07-16 22:20:48,386 - INFO - Export terminé : output.txt (json)
+2025-07-16 22:40:40,580 - INFO - Démarrage de l'énumération
+2025-07-16 22:40:40,743 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-07-16 22:40:40,743 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-16 22:40:41,831 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-16 22:40:42,739 - INFO - [A] www.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-16 22:40:43,763 - INFO - Ports ouverts sur 172.66.164.239 : 80, 443, 8080
+2025-07-16 22:40:44,170 - INFO - Certificat SSL www.tryhackme.com (172.66.164.239) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-16 22:40:44,170 - INFO - [A] www.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-16 22:40:45,190 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-16 22:40:45,712 - INFO - Certificat SSL www.tryhackme.com (172.67.27.10) : CN=tryhackme.com, Issuer=WE1, Valid From=May 31 10:00:10 2025 GMT, To=Aug 29 11:00:05 2025 GMT
+2025-07-16 22:40:45,712 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac42:a4ef [OK]
+2025-07-16 22:40:45,712 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-16 22:40:45,712 - INFO - [A] help.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-16 22:40:46,729 - INFO - Ports ouverts sur 172.66.164.239 : 80, 443, 8080
+2025-07-16 22:40:47,350 - INFO - Certificat SSL help.tryhackme.com (172.66.164.239) : CN=help.tryhackme.com, Issuer=WR1, Valid From=Jul 15 20:23:08 2025 GMT, To=Oct 13 21:22:00 2025 GMT
+2025-07-16 22:40:47,350 - INFO - [A] help.tryhackme.com ----> 172.67.27.10 [OK]
+2025-07-16 22:40:48,376 - INFO - Ports ouverts sur 172.67.27.10 : 80, 443, 8080
+2025-07-16 22:40:48,676 - INFO - Certificat SSL help.tryhackme.com (172.67.27.10) : CN=help.tryhackme.com, Issuer=WR1, Valid From=Jul 15 20:23:08 2025 GMT, To=Oct 13 21:22:00 2025 GMT
+2025-07-16 22:40:48,679 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac43:1b0a [OK]
+2025-07-16 22:40:48,679 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac42:a4ef [OK]
+2025-07-16 22:40:48,681 - INFO - 8 enregistrements trouvés
+2025-07-16 22:40:48,683 - INFO - Temps d'exécution : 0:00:08.100683
+2025-07-16 22:40:48,683 - INFO - Export terminé : output.txt (json)
+2025-07-17 22:17:05,823 - INFO - Démarrage de l'énumération
+2025-07-17 22:17:37,124 - INFO - Démarrage de l'énumération
+2025-07-17 22:19:32,214 - INFO - Démarrage de l'énumération
+2025-07-17 22:19:48,957 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-17 22:19:58,295 - INFO - 0 enregistrements trouvés
+2025-07-17 22:19:58,295 - INFO - Temps d'exécution : 0:00:26.073675
+2025-07-17 22:19:58,295 - INFO - Export terminé : output.txt (json)
+2025-07-17 22:51:08,103 - INFO - Démarrage de l'énumération
+2025-07-17 22:51:08,180 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-07-17 22:51:08,180 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-17 22:51:08,812 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-17 22:53:09,488 - INFO - Démarrage de l'énumération
+2025-07-17 22:53:09,656 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-07-17 22:53:09,657 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-17 22:53:11,578 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-17 22:57:48,462 - INFO - Démarrage de l'énumération
+2025-07-17 22:57:48,485 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-07-17 22:57:48,487 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-17 22:57:49,096 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-17 22:57:51,596 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6814:1d42 [OK]
+2025-07-17 22:57:51,605 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac42:a4ef [OK]
+2025-07-17 22:57:51,607 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac42:a4ef [OK]
+2025-07-17 22:57:51,607 - INFO - [A] www.tryhackme.com ----> 104.20.29.66 [OK]
+2025-07-17 22:57:51,607 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6814:1d42 [OK]
+2025-07-17 22:57:51,607 - INFO - [A] www.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-17 22:57:51,607 - INFO - [A] help.tryhackme.com ----> 104.20.29.66 [OK]
+2025-07-17 22:57:51,607 - INFO - [A] help.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-17 22:57:51,615 - INFO - 8 enregistrements trouvés
+2025-07-17 22:57:51,616 - INFO - Temps d'exécution : 0:00:03.149500
+2025-07-17 22:57:51,616 - INFO - Export terminé : output.txt (json)
+2025-07-17 23:05:43,273 - INFO - Démarrage de l'énumération
+2025-07-17 23:05:43,552 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-07-17 23:05:43,557 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-17 23:05:45,486 - INFO - Types détectés : A, AAAA, MX, NS, TXT
+2025-07-17 23:05:48,041 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::ac42:a4ef [OK]
+2025-07-17 23:05:48,043 - INFO - [A] help.tryhackme.com ----> 104.20.29.66 [OK]
+2025-07-17 23:05:48,044 - INFO - [A] help.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-17 23:05:48,044 - INFO - [A] www.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-17 23:05:48,044 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::6814:1d42 [OK]
+2025-07-17 23:05:48,044 - INFO - [AAAA] help.tryhackme.com ----> 2606:4700:10::ac42:a4ef [OK]
+2025-07-17 23:05:48,044 - INFO - [AAAA] www.tryhackme.com ----> 2606:4700:10::6814:1d42 [OK]
+2025-07-17 23:05:48,044 - INFO - [A] www.tryhackme.com ----> 104.20.29.66 [OK]
+2025-07-17 23:05:48,049 - INFO - 8 enregistrements trouvés
+2025-07-17 23:05:48,049 - INFO - Temps d'exécution : 0:00:04.777460
+2025-07-17 23:05:48,049 - INFO - Export terminé : output.txt (json)
+2025-07-31 21:38:38,186 - INFO - Démarrage de l'énumération
+2025-07-31 21:38:38,186 - ERROR - Ellipsis
+2025-07-31 21:39:01,759 - INFO - Démarrage de l'énumération
+2025-07-31 21:39:01,933 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-07-31 21:39:01,933 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-31 21:39:03,207 - INFO - [A] www.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-31 21:39:03,207 - INFO - [A] help.tryhackme.com ----> 104.20.29.66 [OK]
+2025-07-31 21:39:03,207 - INFO - [A] help.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-31 21:39:03,207 - INFO - [A] www.tryhackme.com ----> 104.20.29.66 [OK]
+2025-07-31 21:39:03,217 - INFO - 4 enregistrements trouvés
+2025-07-31 21:39:03,217 - INFO - Temps d'exécution : 0:00:01.448663
+2025-07-31 21:39:03,217 - INFO - Export terminé : output.txt (json)
+2025-07-31 21:39:25,278 - INFO - Démarrage de l'énumération
+2025-07-31 21:39:25,286 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-07-31 21:39:25,286 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-31 21:39:26,408 - INFO - [A] help.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-31 21:39:26,408 - INFO - [A] help.tryhackme.com ----> 104.20.29.66 [OK]
+2025-07-31 21:39:26,408 - INFO - [A] www.tryhackme.com ----> 104.20.29.66 [OK]
+2025-07-31 21:39:26,408 - INFO - [A] www.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-31 21:39:26,415 - INFO - 4 enregistrements trouvés
+2025-07-31 21:39:26,415 - INFO - Temps d'exécution : 0:00:01.129576
+2025-07-31 21:39:26,415 - INFO - Export terminé : output.txt (json)
+2025-07-31 21:41:28,784 - INFO - Démarrage de l'énumération
+2025-07-31 21:41:28,997 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-07-31 21:41:28,997 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-31 21:48:54,968 - INFO - Démarrage de l'énumération
+2025-07-31 21:48:54,978 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-07-31 21:48:54,978 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-07-31 21:48:59,083 - INFO - [A] www.tryhackme.com ----> 104.20.29.66 [OK]
+2025-07-31 21:48:59,083 - INFO - [A] help.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-31 21:48:59,083 - INFO - [A] www.tryhackme.com ----> 172.66.164.239 [OK]
+2025-07-31 21:48:59,083 - INFO - [A] help.tryhackme.com ----> 104.20.29.66 [OK]
+2025-07-31 21:48:59,088 - INFO - 4 enregistrements trouvés
+2025-07-31 21:48:59,088 - INFO - Temps d'exécution : 0:00:04.120184
+2025-07-31 21:48:59,088 - INFO - Export terminé : output.txt (json)
+2025-09-29 09:05:21,000 - INFO - Démarrage de l'énumération
+2025-09-29 09:05:21,111 - INFO - Cloudflare détecté via NS : uma.ns.cloudflare.com.
+2025-09-29 09:05:21,111 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-09-29 09:06:02,840 - INFO - 0 enregistrements trouvés
+2025-09-29 09:06:02,840 - INFO - Temps d'exécution : 0:00:41.829657
+2025-09-29 09:06:02,840 - INFO - Export terminé : output.txt (json)
+2025-09-29 09:06:26,265 - INFO - Démarrage de l'énumération
+2025-09-29 09:07:08,053 - INFO - 0 enregistrements trouvés
+2025-09-29 09:07:08,056 - INFO - Temps d'exécution : 0:00:41.785721
+2025-09-29 09:07:08,056 - INFO - Export terminé : output.txt (json)
+2025-09-29 16:41:11,684 - INFO - Démarrage de l'énumération
+2025-09-29 16:41:11,777 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-09-29 16:41:11,777 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-09-29 16:41:53,517 - INFO - 0 enregistrements trouvés
+2025-09-29 16:41:53,517 - INFO - Temps d'exécution : 0:00:41.827034
+2025-09-29 16:41:53,517 - INFO - Export terminé : output.txt (json)
+2025-09-29 16:42:19,509 - INFO - Démarrage de l'énumération
+2025-09-29 16:42:19,528 - INFO - Cloudflare détecté via NS : kip.ns.cloudflare.com.
+2025-09-29 16:42:19,528 - INFO - tryhackme.com semble être protégé par Cloudflare.
+2025-09-29 16:42:32,671 - WARNING - [A] www.tryhackme.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:42:32,672 - WARNING - [A] ttttt.tryhackme.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:42:32,672 - WARNING - [A] help.tryhackme.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:42:32,672 - WARNING - [A] center.tryhackme.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:42:32,675 - INFO - 0 enregistrements trouvés
+2025-09-29 16:42:32,676 - INFO - Temps d'exécution : 0:00:13.165265
+2025-09-29 16:42:32,676 - INFO - Export terminé : output.txt (json)
+2025-09-29 16:43:37,240 - INFO - Démarrage de l'énumération
+2025-09-29 16:43:50,238 - WARNING - [A] www.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:43:50,238 - WARNING - [A] ttttt.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:43:50,239 - WARNING - [A] help.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:43:50,239 - WARNING - [A] center.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:43:50,242 - INFO - 0 enregistrements trouvés
+2025-09-29 16:43:50,242 - INFO - Temps d'exécution : 0:00:12.999113
+2025-09-29 16:43:50,242 - INFO - Export terminé : output.txt (json)
+2025-09-29 16:50:23,486 - INFO - Démarrage de l'énumération
+2025-09-29 16:50:36,461 - WARNING - [A] www.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:50:36,461 - WARNING - [A] ttttt.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:50:36,461 - WARNING - [A] help.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:50:36,461 - WARNING - [A] center.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:50:36,466 - INFO - 0 enregistrements trouvés
+2025-09-29 16:50:36,466 - INFO - Temps d'exécution : 0:00:12.975045
+2025-09-29 16:50:36,466 - INFO - Export terminé : output.txt (json)
+2025-09-29 16:52:20,522 - INFO - Démarrage de l'énumération
+2025-09-29 16:52:33,510 - WARNING - [A] www.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:52:33,510 - WARNING - [A] ttttt.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:52:33,510 - WARNING - [A] help.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:52:33,510 - WARNING - [A] center.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:52:33,514 - INFO - 0 enregistrements trouvés
+2025-09-29 16:52:33,514 - INFO - Temps d'exécution : 0:00:12.992777
+2025-09-29 16:52:33,514 - INFO - Export terminé : output.txt (json)
+2025-09-29 16:53:02,719 - INFO - Démarrage de l'énumération
+2025-09-29 16:53:02,928 - INFO - [A] www.google.com ----> 172.217.21.4 [OK]
+2025-09-29 16:53:02,928 - WARNING - [A] ttttt.google.com ----> Unresolved [FAIL]
+2025-09-29 16:53:02,928 - INFO - [A] help.google.com ----> 142.250.200.238 [OK]
+2025-09-29 16:53:02,928 - WARNING - [A] center.google.com ----> Unresolved [FAIL]
+2025-09-29 16:53:02,928 - INFO - 2 enregistrements trouvés
+2025-09-29 16:53:02,940 - INFO - Temps d'exécution : 0:00:00.209145
+2025-09-29 16:53:02,940 - INFO - Export terminé : output.txt (txt)
+2025-09-29 16:55:06,236 - INFO - Démarrage de l'énumération
+2025-09-29 16:55:19,255 - WARNING - [A] www.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:55:19,255 - WARNING - [A] ttttt.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:55:19,255 - WARNING - [A] help.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:55:19,255 - WARNING - [A] center.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 16:55:19,260 - INFO - 0 enregistrements trouvés
+2025-09-29 16:55:19,260 - INFO - Temps d'exécution : 0:00:13.021446
+2025-09-29 16:55:19,260 - INFO - Export terminé : output.txt (json)
+2025-09-29 17:07:31,083 - INFO - Démarrage de l'énumération
+2025-09-29 17:07:44,068 - WARNING - [A] www.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 17:07:44,069 - WARNING - [A] ttttt.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 17:07:44,069 - WARNING - [A] help.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 17:07:44,069 - WARNING - [A] center.google.com ----> Timeout or DNS error [FAIL]
+2025-09-29 17:07:44,069 - INFO - 0 enregistrements trouvés
+2025-09-29 17:07:44,069 - INFO - Temps d'exécution : 0:00:12.986621
+2025-09-29 17:07:44,069 - INFO - Export terminé : output.txt (json)
+2025-12-01 14:06:51,291 - INFO - Démarrage de l'énumération
+2025-12-01 14:07:04,562 - WARNING - [A] www.google.com ----> Timeout or DNS error [FAIL]
+2025-12-01 14:07:04,563 - WARNING - [A] ttttt.google.com ----> Timeout or DNS error [FAIL]
+2025-12-01 14:07:04,563 - WARNING - [A] help.google.com ----> Timeout or DNS error [FAIL]
+2025-12-01 14:07:04,563 - WARNING - [A] center.google.com ----> Timeout or DNS error [FAIL]
+2025-12-01 14:07:04,565 - INFO - 0 enregistrements trouvés
+2025-12-01 14:07:04,566 - INFO - Temps d'exécution : 0:00:13.272936
+2025-12-01 14:07:04,566 - INFO - Export terminé : output.txt (json)
+2025-12-01 14:07:53,362 - INFO - Démarrage de l'énumération
+2025-12-01 14:08:06,213 - WARNING - [A] www.google.com ----> Timeout or DNS error [FAIL]
+2025-12-01 14:08:06,213 - WARNING - [A] ttttt.google.com ----> Timeout or DNS error [FAIL]
+2025-12-01 14:08:06,213 - WARNING - [A] help.google.com ----> Timeout or DNS error [FAIL]
+2025-12-01 14:08:06,213 - WARNING - [A] center.google.com ----> Timeout or DNS error [FAIL]
+2025-12-01 14:08:06,215 - INFO - 0 enregistrements trouvés
+2025-12-01 14:08:06,215 - INFO - Temps d'exécution : 0:00:12.852777
+2025-12-01 14:08:06,215 - INFO - Export terminé : output.txt (json)
