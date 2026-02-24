@@ -1,26 +1,2 @@
-[
-  {
-    "type": "A",
-    "subdomain": "www.google.com",
-    "value": "Timeout or DNS error",
-    "status": "FAIL"
-  },
-  {
-    "type": "A",
-    "subdomain": "ttttt.google.com",
-    "value": "Timeout or DNS error",
-    "status": "FAIL"
-  },
-  {
-    "type": "A",
-    "subdomain": "help.google.com",
-    "value": "Timeout or DNS error",
-    "status": "FAIL"
-  },
-  {
-    "type": "A",
-    "subdomain": "center.google.com",
-    "value": "Timeout or DNS error",
-    "status": "FAIL"
-  }
-]
+[A] www.google.com ----> 142.251.35.228 [OK]
+[A] help.google.com ----> 142.251.34.142 [OK]

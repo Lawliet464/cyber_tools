@@ -836,3 +836,19 @@
 2025-12-01 14:08:06,215 - INFO - 0 enregistrements trouvés
 2025-12-01 14:08:06,215 - INFO - Temps d'exécution : 0:00:12.852777
 2025-12-01 14:08:06,215 - INFO - Export terminé : output.txt (json)
+2026-02-22 15:39:28,013 - INFO - Démarrage de l'énumération
+2026-02-22 15:39:28,013 - ERROR - Ellipsis
+2026-02-22 15:39:39,680 - INFO - Démarrage de l'énumération
+2026-02-22 15:39:39,680 - ERROR - Ellipsis
+2026-02-22 15:39:54,263 - INFO - Démarrage de l'énumération
+2026-02-22 15:39:55,947 - INFO - [A] www.google.com ----> 192.178.50.36 [OK]
+2026-02-22 15:39:55,947 - INFO - [A] help.google.com ----> 172.217.15.206 [OK]
+2026-02-22 15:39:55,947 - INFO - 2 enregistrements trouvés
+2026-02-22 15:39:55,947 - INFO - Temps d'exécution : 0:00:01.683942
+2026-02-22 15:39:55,947 - INFO - Export terminé : output.txt (txt)
+2026-02-22 15:41:11,148 - INFO - Démarrage de l'énumération
+2026-02-22 15:41:12,109 - INFO - [A] www.google.com ----> 142.251.35.228 [OK]
+2026-02-22 15:41:12,109 - INFO - [A] help.google.com ----> 142.251.34.142 [OK]
+2026-02-22 15:41:12,110 - INFO - 2 enregistrements trouvés
+2026-02-22 15:41:12,110 - INFO - Temps d'exécution : 0:00:00.962203
+2026-02-22 15:41:12,110 - INFO - Export terminé : output.txt (txt)
